@@ -9,11 +9,6 @@ This Streamlit application allows users to remove the background from images. It
 - Background Removal: Once an image is uploaded, users can click on the "Remove Background" button to process the image and remove its background.
   
 - Download Result: After background removal, users have the option to download the processed image.
-  
-## Instructions:
 
-- Upload an Image: Use the file uploader to upload an image. Supported formats include PNG, JPG, and JPEG.
-
-- Remove Background: Once the image is uploaded, click the "Remove Background" button to initiate the background removal process.
-
-- Download Result: After background removal, a download button will appear. Click on it to download the processed image with the background removed.
+##Deployment
+https://removebg-jgmwytebymemsbggxenarh.streamlit.app/
